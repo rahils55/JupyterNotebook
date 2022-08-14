@@ -1,2 +1,1 @@
-# SpaceshipTitanic
-Kaggle Spaceship Titanic Competition 
+# Kaggle Notebooks
